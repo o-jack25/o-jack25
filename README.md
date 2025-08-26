@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Jack 👋  
 
-<!--
-**o-jack25/o-jack25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer and Information Science student @ University of Michigan-Dearborn (Graduating Dec 2025)  
+💻 Interests: Machine Learning • Computer Vision • AI-generated Image Detection • Systems Programming  
+🚀 Currently working on: GenAI Image Detector (ResNet-50 / DeiT-S cross-dataset evaluation)  
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- Languages: Python, C++, SQL, JavaScript 
+- Frameworks/Libraries: PyTorch, TensorFlow, OpenCV, ReactJS  
+- Tools: Git, Linux, Slurm HPC, Docker  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+- [GenImage Detector (Jack’s fork)](https://github.com/o-jack25/genimage-detector-jack) – Detecting AI-generated images using ResNet-50 & DeiT-S  
+- [ProRigRental](https://github.com/o-jack25/ProRigRental) – Web-based heavy machinery rental platform  
+
+## 🌐 Connect with me
+[LinkedIn](https://www.linkedin.com/in/jackorlowski/) • [Email](mailto:your.email@domain.com)
+
