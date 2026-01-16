@@ -14,6 +14,6 @@
 - [ProRigRental](https://github.com/o-jack25/ProRigRental) – Web-based heavy machinery rental platform  
 
 ## 🌐 Connect with me
-[Portfolio](https://portfolio-six-neon-iy8xxacsla.vercel.app/) 
+[Portfolio](https://portfolio-six-neon-iy8xxacsla.vercel.app/) •
 [LinkedIn](https://www.linkedin.com/in/jackorlowski/) • [Email](orlowskiij@gmail.com)
 
