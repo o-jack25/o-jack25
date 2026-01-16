@@ -2,7 +2,7 @@
 
 🎓 Computer Science Grad University of Michigan 2025  
 💻 Interests: Machine Learning • Computer Vision • AI-generated Image Detection • Systems Programming  
-🚀 Currently working on: GenAI Image Detector (ResNet-50 / DeiT-S cross-dataset evaluation)  
+🚀 Worked on: GenAI Image Detector (ResNet-50 / DeiT-S cross-dataset evaluation)  
 
 ## 🔧 Technologies & Tools
 - Languages: Python, C++, SQL, JavaScript 
