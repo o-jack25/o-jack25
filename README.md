@@ -1,6 +1,6 @@
 # Hi, I'm Jack 👋  
 
-🎓 Computer and Information Science student @ University of Michigan-Dearborn (Graduating Dec 2025)  
+🎓 Computer Science Grad University of Michigan 2025  
 💻 Interests: Machine Learning • Computer Vision • AI-generated Image Detection • Systems Programming  
 🚀 Currently working on: GenAI Image Detector (ResNet-50 / DeiT-S cross-dataset evaluation)  
 
